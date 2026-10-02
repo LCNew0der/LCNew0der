@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luan 👋
 
-🎓 Estudante de Desenvolvimento de Sistemas
+🎓 Estudante de Informática na Etec Alberto Santos Dumont.
 
 💻 Atualmente estou aprendendo **Python** e desenvolvendo meus primeiros projetos de programação.
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas e estou começando minha jornada na área de tecnologia.
+Sou estudante de Informática e Desenvolvimento de Sistemas e estou começando minha jornada na área de tecnologia.
 
 Atualmente, meu principal foco de estudos é **Python**, onde venho desenvolvendo atividades e pequenos projetos para praticar lógica de programação e aprender novos conceitos.
 
