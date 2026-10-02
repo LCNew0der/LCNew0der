@@ -18,7 +18,6 @@ Aqui no meu GitHub, vou compartilhar alguns dos projetos e exercícios que desen
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </div>
 
@@ -26,7 +25,7 @@ Aqui no meu GitHub, vou compartilhar alguns dos projetos e exercícios que desen
 
 * Python
 * Lógica de programação
-* Git e GitHub
+* GitHub
 * Desenvolvimento de projetos
 
 ## 📂 Projetos
@@ -39,4 +38,4 @@ Neste perfil você encontrará projetos desenvolvidos durante meus estudos, prin
 
 ---
 
-> "Sempre aprendendo e evoluindo." 🚀
+>  🚀
